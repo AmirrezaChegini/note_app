@@ -1,16 +1,18 @@
-# note_app
+# Flutter: Note App
+Simple note app with hive database.
 
-A new Flutter project.
+# Packages
+1- Hive
 
-## Getting Started
+2- Hive_flutter
 
-This project is a starting point for a Flutter application.
+3- Hive_generator
 
-A few resources to get you started if this is your first Flutter project:
+4- Build_runner
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Videos
+https://user-images.githubusercontent.com/98664397/198636305-bc875235-49e0-4103-9947-cb3ce0478aa0.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/98664397/198637031-d5a65421-45c7-409f-a511-afd86009aa1f.mp4
+
+https://user-images.githubusercontent.com/98664397/198638955-5f298052-e194-46a1-a4b3-59d87720da50.mp4
